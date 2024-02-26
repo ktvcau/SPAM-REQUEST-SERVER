@@ -1,6 +1,6 @@
 # XIE Tool
 
-![XIE Tool Logo](insert_image_url_here)
+![XIE Tool](https://ibb.co/Cz2YxpC)
 
 ## Description
 
