@@ -1,6 +1,6 @@
 # XIE Tool
 
-![XIE Tool](https://ibb.co/Cz2YxpC)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/hyf4pxQ/xielogo.jpg" alt="XIE Tool" border="0" /></a>
 
 ## Description
 
