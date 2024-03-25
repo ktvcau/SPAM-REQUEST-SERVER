@@ -63,3 +63,4 @@ XIE Tool is a spam request server tool created by XIE. It allows users to simula
 
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests on the [GitHub repository](https://github.com/ktvcau/SPAM-REQUEST-SERVER).
 
+[CODE TEST](https://github.com/ktvcau/SPAM-REQUEST-SERVER/blob/main/code_test.js)
