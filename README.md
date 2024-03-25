@@ -1,6 +1,7 @@
+```markdown
 # XIE Tool
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/hyf4pxQ/xielogo.jpg" alt="XIE Tool" border="0" width="200" height="200" /></a>
+[![XIE Tool](https://i.ibb.co/hyf4pxQ/xielogo.jpg)](https://imgbb.com/)
 
 ## Description
 
@@ -10,17 +11,17 @@ XIE Tool is a spam request server tool created by XIE. It allows users to simula
 
 1. **Clone Repository:**
 ```bash
-   git clone https://github.com/ktvcau/SPAM-REQUEST-SERVER.git
+git clone https://github.com/ktvcau/SPAM-REQUEST-SERVER.git
 ```
 
 2. **Navigate to Project Directory:**
-```
-   cd SPAM-REQUEST-SERVER
+```bash
+cd SPAM-REQUEST-SERVER
 ```
 
 3. **Install Dependencies:**
-```
-   npm install
+```bash
+npm install
 ```
 
 ## Usage
@@ -28,19 +29,19 @@ XIE Tool is a spam request server tool created by XIE. It allows users to simula
 1. **Configuration:**
 
 - Modify the `config.json` file to customize the tool's behavior.
-  ```json
-  {
-    "linkToCheck": "http://example.com/page",
-    "numberOfDevices": 1000,
-    "consoleOutputEnabled": true
-  }
-  ```
+```json
+{
+  "linkToCheck": "http://example.com/page",
+  "numberOfDevices": 1000,
+  "consoleOutputEnabled": true
+}
+```
 
 - Ensure `ipOnly.txt` contains a list of proxy IP addresses without ports.
 
 2. **Start Tool:**
-```
-   npm start
+```bash
+npm start
 ```
 
 3. **Follow Prompts:**
@@ -64,8 +65,8 @@ XIE Tool is a spam request server tool created by XIE. It allows users to simula
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests on the [GitHub repository](https://github.com/ktvcau/SPAM-REQUEST-SERVER).
 
 ## I'm trying a new type of tool but can't think of it yet, please help me come up with an idea
-```
--> Below is just a small example, not my main intention
-👇👇👇
-```
+
+-> Below is just a small example, not my main intention 👇👇👇
+
 [CODE TEST](https://github.com/ktvcau/SPAM-REQUEST-SERVER/blob/main/code_test.js)
+```
